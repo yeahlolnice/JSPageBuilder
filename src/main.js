@@ -76,7 +76,7 @@ function startBtnClick() {
     //cmd-container
     showCMDContainer();
     
-    // start listening to the form ******** THIS WILL STOP AND WAIT FOR THIS CODE TO RETURN
+    // start listening to the form
     let form = document.getElementById("search-form");
     form.addEventListener('submit', (event) => {
         event.preventDefault();
