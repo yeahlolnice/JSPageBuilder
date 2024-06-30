@@ -1,5 +1,3 @@
-markdown
-
 # HTML Element Generator
 
 A lightweight JavaScript library for dynamically generating and managing HTML elements.
