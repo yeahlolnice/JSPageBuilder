@@ -1,0 +1,20 @@
+*:not(.fa) {
+    font-family: 'Mulish', sans-serif !important;
+    scroll-behavior: smooth;
+}
+
+#start-col {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start-btn {
+    width: 400px;
+    height: 200px;
+    font-size: 4rem;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
